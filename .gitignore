@@ -1,0 +1,9 @@
+venv/
+*/__pycache__/
+__pycache__/
+config.py
+alteracoes_log.txt
+**/__pycache__
+driver/
+status
+processamento.log
